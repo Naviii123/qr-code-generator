@@ -5,7 +5,7 @@ Users can enter a URL, customize size and colors, and download the QR code as an
 ## Features
 - Real-time QR code generation
 - Customizable size and colors
-- Centered, responsive UI
+- Responsive UI
 - Download QR code as PNG
 
 ## How to Run
