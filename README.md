@@ -1,6 +1,3 @@
-# qr-code-generator
-A responsive, browser-based QR code generator built with HTML, CSS, and JavaScript. Supports real-time customization of size and colors, with download functionality.
-
 # QR Code Generator
 A responsive QR code generator built with HTML, CSS, and JavaScript.  
 Users can enter a URL, customize size and colors, and download the QR code as an image.
